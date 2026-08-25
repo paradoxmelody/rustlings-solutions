@@ -12,3 +12,4 @@ variables5
 variables6
 functions1
 functions2
+functions4
