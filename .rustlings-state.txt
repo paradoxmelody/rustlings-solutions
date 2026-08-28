@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-functions3
+functions5
 
 intro1
 intro2
@@ -12,4 +12,5 @@ variables5
 variables6
 functions1
 functions2
+functions3
 functions4

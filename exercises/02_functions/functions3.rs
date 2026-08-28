@@ -6,5 +6,5 @@ fn call_me(num: u8) {
 
 fn main() {
     // TODO: Fix the function call.
-    main();
+    call_me(60);
 }
