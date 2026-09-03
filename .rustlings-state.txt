@@ -18,3 +18,4 @@ functions5
 if1
 if2
 if3
+primitive_types1
