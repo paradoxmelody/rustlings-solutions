@@ -24,6 +24,7 @@ fn animal_habitat(animal: &str) -> &str {
 
 fn main() {
     // You can optionally experiment here.
+    
 }
 
 // Don't change the tests!
