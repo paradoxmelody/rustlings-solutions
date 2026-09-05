@@ -23,3 +23,5 @@ primitive_types2
 primitive_types3
 primitive_types4
 primitive_types5
+primitive_types6
+vecs1
