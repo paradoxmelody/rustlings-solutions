@@ -26,3 +26,4 @@ primitive_types5
 primitive_types6
 vecs1
 vecs2
+move_semantics1
