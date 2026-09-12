@@ -11,7 +11,7 @@ fn main() {
     // You can optionally experiment here.
     //okay let's experiment 
     let vecto = vec![10, 20, 30];
-    println!("vecto before: {:?}", vecto)
+    println!("vecto before: {:?}", vecto);
     let vecto2 = fill_vec(vecto);
     println!("vectoris anoris mantoris extrolis: {:?}", vecto2);
 }
