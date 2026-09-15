@@ -33,3 +33,4 @@ move_semantics3
 move_semantics4
 move_semantics5
 structs2
+structs3
