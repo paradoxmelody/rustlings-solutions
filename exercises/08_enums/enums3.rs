@@ -49,7 +49,7 @@ impl State {
         match message {
             Message::Resize { width, height } => self.resize(width, height),
             Message::Move(point) => self.move_position(point),
-            Message::Echo(s) => self.echo(S),
+            Message::Echo(s) => self.echo(s),
             Message::ChangeColor(red, green, blue) => self.change_color(red, green, blue),
             Message::Quit => self.quit(),
             
