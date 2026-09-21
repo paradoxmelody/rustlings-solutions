@@ -1,5 +1,4 @@
-// TODO: Fix the compiler error in the `main` function without changing this function.
-fn is_a_color_word(attempt: &str) -> bool {
+fn is_a_color_word(attempt: String) -> bool {
     attempt == "green" || attempt == "blue" || attempt == "red"
 }
 
